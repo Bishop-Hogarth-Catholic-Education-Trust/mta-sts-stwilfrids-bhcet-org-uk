@@ -1,0 +1,6 @@
+version: STSv1
+mode: enforce
+mx: d237195.a.ess.uk.barracudanetworks.com
+mx: d237195.b.ess.uk.barracudanetworks.com
+mx: stwilfrids-bhcet-org-uk.mail.protection.outlook.com
+max_age: 86400
